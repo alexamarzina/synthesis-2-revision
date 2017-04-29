@@ -14,8 +14,8 @@ body
   background-color: #BCD3F2;
   border-radius: 25px;
   padding: 20px; 
-  width: 500px;
-  height: 5000px;
+  width: 1000px;
+  height: 500px;
 }
 
 a
@@ -31,4 +31,27 @@ h1
 h3
 {
 	color: #80A4ED;
+}
+
+ {
+   padding: 0;
+   margin: 0;
+}
+
+ul li {
+	float: left;
+	list-style: none;
+	margin-right: 1em; 
+}
+
+li a {
+	color: #395C6B;
+	text-decoration: none;
+	float: left;
+	font-size: 25px;
+	padding: 12px;
+}
+
+li a:hover {
+	color: #D4CB92;
 }
