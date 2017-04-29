@@ -37,6 +37,9 @@ body
 .lit
 {
 	background-color: #70C1B3;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 
