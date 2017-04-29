@@ -34,9 +34,20 @@ body
   height: 1000px;
 }
 
+.lit
+{
+	background-color: #70C1B3;
+}
+
+
 a
 {
 	color: #F25F5C;
+	}
+	
+a:hover
+{
+	cursor: hand;
 	}
 
 b
