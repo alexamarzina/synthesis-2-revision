@@ -4,20 +4,32 @@ body
 	font-family: Verdana;
 	}
 
-.cool
+.cool1
 {
   position: absolute;
   margin: auto;
   margin-top:100px;
-  top: 0 px;
   right: 0 px;
-  bottom: 0 px;
+  left: 0 px;
+  background-color: #BCD3F2;
+  border-radius: 25px;
+  padding: 20px; 
+  width: 700px;
+  height: 200px;
+}
+
+.cool2
+{
+  position: absolute;
+  margin: auto;
+  margin-top:100px;
+  right: 0 px;
   left: 0 px;
   background-color: #BCD3F2;
   border-radius: 25px;
   padding: 20px; 
   width: 1000px;
-  height: 500px;
+  height: 1000px;
 }
 
 a
